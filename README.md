@@ -3,9 +3,15 @@ In this project I analyzed Both Summer Olympics and Winter olympics dataset to f
 
 # Technology Used
 EDA
+
 Data Analytics
+
 Excel
+
 Data Cleaning
+
 Data Mining
+
 Data Visualization
+
 Data Filtering
